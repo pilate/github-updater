@@ -1,4 +1,4 @@
-name: GitHub Self-Updating Repository Demo
+name: Download daily NASDAQ dump
 
 on:
   schedule:
