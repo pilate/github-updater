@@ -21,7 +21,6 @@ jobs:
 
       - name: Push to repository
         run: |
-          git config --global user.name "Pilate"
           now=$(date)
           git add -A
           git commit -m "Auto update on $now"
