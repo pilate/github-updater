@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
-      - name: Modify date and time
+      - name: Download NASDAQ stock data
         run: |
           wget --header="Accept: */*" --header="Accept-Encoding: *" --header="User-Agent: Mozilla" "https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=20000" -O data/stocks.json
       - name: Push to repository
