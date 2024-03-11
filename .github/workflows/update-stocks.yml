@@ -10,9 +10,15 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
       - name: Download NASDAQ stock data
         run: |
-          wget --header="Accept: */*" --header="Accept-Encoding: *" --header="User-Agent: Mozilla" "https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=20000" -O data/stocks.json
+          wget --header="Accept: */*" --header="Accept-Encoding: *" --header="User-Agent: Mozilla" "https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=20000" -O /tmp/stocks.json
+          jq '.data.table.rows' /tmp/stocks.json > data/stocks.json
+
       - name: Push to repository
         run: |
           git config --global user.name "Pilate"
