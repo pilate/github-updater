@@ -17,7 +17,7 @@ jobs:
       - name: Download NASDAQ stock data
         run: |
           wget --header="Accept: */*" --header="Accept-Encoding: *" --header="User-Agent: Mozilla" "https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=20000" -O /tmp/nasdaq_stocks.json
-          jq '.data.table.rows' /tmp/nasdaq_stocks > data/nasdaq_stocks.json
+          jq '.data.table.rows' /tmp/nasdaq_stocks.json > data/nasdaq_stocks.json
 
       - name: Push to repository
         run: |
