@@ -33030,6 +33030,15 @@
     "url": "/market-activity/stocks/allg"
   },
   {
+    "symbol": "VXX",
+    "name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+    "lastsale": "$12.06",
+    "netchange": "-0.17",
+    "pctchange": "-1.39%",
+    "marketCap": "296,374,500",
+    "url": "/market-activity/stocks/vxx"
+  },
+  {
     "symbol": "WHF",
     "name": "WhiteHorse Finance, Inc. Common Stock",
     "lastsale": "$12.75",
@@ -45088,6 +45097,15 @@
     "pctchange": "1.662%",
     "marketCap": "33,267,055",
     "url": "/market-activity/stocks/srzn"
+  },
+  {
+    "symbol": "VXZ",
+    "name": "iPath Series B S&P 500 VIX Mid-Term Futures ETN",
+    "lastsale": "$12.575",
+    "netchange": "-0.025",
+    "pctchange": "-0.198%",
+    "marketCap": "33,260,875",
+    "url": "/market-activity/stocks/vxz"
   },
   {
     "symbol": "PBBK",
@@ -62775,6 +62793,15 @@
     "url": "/market-activity/stocks/slnaw"
   },
   {
+    "symbol": "SLVO",
+    "name": "Credit Suisse X-Links Silver Shares Covered Call ETNs due April 21, 2033",
+    "lastsale": "$80.35",
+    "netchange": "0.02",
+    "pctchange": "0.025%",
+    "marketCap": "NA",
+    "url": "/market-activity/stocks/slvo"
+  },
+  {
     "symbol": "SNV^D",
     "name": "Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share",
     "lastsale": "$24.97",
@@ -63475,6 +63502,15 @@
     "pctchange": "0.51%",
     "marketCap": "NA",
     "url": "/market-activity/stocks/usb^s"
+  },
+  {
+    "symbol": "USOI",
+    "name": "Credit Suisse AG Credit Suisse X-Links Crude Oil Shares Covered Call ETN",
+    "lastsale": "$72.65",
+    "netchange": "-0.95",
+    "pctchange": "-1.291%",
+    "marketCap": "NA",
+    "url": "/market-activity/stocks/usoi"
   },
   {
     "symbol": "UTF",
