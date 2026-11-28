@@ -131,7 +131,7 @@
     "lastsale": "$82.79",
     "netchange": "0.885",
     "pctchange": "1.081%",
-    "marketCap": "1,083,445,623,974",
+    "marketCap": "1,094,454,184,030",
     "url": "/market-activity/stocks/ant"
   },
   {
@@ -891,15 +891,6 @@
     "url": "/market-activity/stocks/pfe"
   },
   {
-    "symbol": "ADI",
-    "name": "Analog Devices, Inc. Common Stock",
-    "lastsale": "$333.105",
-    "netchange": "20.155",
-    "pctchange": "6.44%",
-    "marketCap": "161,411,179,219",
-    "url": "/market-activity/stocks/adi"
-  },
-  {
     "symbol": "SCHW",
     "name": "Charles Schwab Corporation (The) Common Stock",
     "lastsale": "$93.46",
@@ -916,6 +907,15 @@
     "pctchange": "3.517%",
     "marketCap": "160,821,149,539",
     "url": "/market-activity/stocks/acn"
+  },
+  {
+    "symbol": "ADI",
+    "name": "Analog Devices, Inc. Common Stock",
+    "lastsale": "$333.105",
+    "netchange": "20.155",
+    "pctchange": "6.44%",
+    "marketCap": "160,781,926,552",
+    "url": "/market-activity/stocks/adi"
   },
   {
     "symbol": "TJX",
@@ -1085,7 +1085,7 @@
     "lastsale": "$235.62",
     "netchange": "4.58",
     "pctchange": "1.982%",
-    "marketCap": "132,195,547,957",
+    "marketCap": "132,194,109,968",
     "url": "/market-activity/stocks/low"
   },
   {
@@ -1985,7 +1985,7 @@
     "lastsale": "$172.17",
     "netchange": "-3.89",
     "pctchange": "-2.209%",
-    "marketCap": "78,216,269,037",
+    "marketCap": "77,948,614,072",
     "url": "/market-activity/stocks/tgt"
   },
   {
@@ -2831,7 +2831,7 @@
     "lastsale": "$246.785",
     "netchange": "-8.915",
     "pctchange": "-3.487%",
-    "marketCap": "51,578,065,000",
+    "marketCap": "51,331,280,000",
     "url": "/market-activity/stocks/adsk"
   },
   {
@@ -4613,7 +4613,7 @@
     "lastsale": "$47.655",
     "netchange": "0.295",
     "pctchange": "0.623%",
-    "marketCap": "27,587,161,641",
+    "marketCap": "27,592,723,599",
     "url": "/market-activity/stocks/fe"
   },
   {
@@ -6089,7 +6089,7 @@
     "lastsale": "$83.41",
     "netchange": "1.10",
     "pctchange": "1.336%",
-    "marketCap": "17,272,159,698",
+    "marketCap": "17,243,113,333",
     "url": "/market-activity/stocks/gib"
   },
   {
@@ -6566,7 +6566,7 @@
     "lastsale": "$250.07",
     "netchange": "5.73",
     "pctchange": "2.345%",
-    "marketCap": "15,708,195,814",
+    "marketCap": "15,637,071,905",
     "url": "/market-activity/stocks/burl"
   },
   {
@@ -6660,15 +6660,6 @@
     "url": "/market-activity/stocks/apa"
   },
   {
-    "symbol": "ARMK",
-    "name": "Aramark Common Stock",
-    "lastsale": "$57.77",
-    "netchange": "0.94",
-    "pctchange": "1.654%",
-    "marketCap": "15,229,618,792",
-    "url": "/market-activity/stocks/armk"
-  },
-  {
     "symbol": "ICLR",
     "name": "ICON plc Ordinary Shares",
     "lastsale": "$198.78",
@@ -6676,6 +6667,15 @@
     "pctchange": "0.257%",
     "marketCap": "15,220,052,864",
     "url": "/market-activity/stocks/iclr"
+  },
+  {
+    "symbol": "ARMK",
+    "name": "Aramark Common Stock",
+    "lastsale": "$57.77",
+    "netchange": "0.94",
+    "pctchange": "1.654%",
+    "marketCap": "15,218,118,691",
+    "url": "/market-activity/stocks/armk"
   },
   {
     "symbol": "PKX",
@@ -6811,6 +6811,15 @@
     "pctchange": "-0.597%",
     "marketCap": "14,704,502,727",
     "url": "/market-activity/stocks/dino"
+  },
+  {
+    "symbol": "SKYD.WS",
+    "name": "Skydance Corporation Warrants to Purchase Class B Common Stock",
+    "lastsale": "$2.91",
+    "netchange": "0.01",
+    "pctchange": "0.345%",
+    "marketCap": "14,678,687,091",
+    "url": "/market-activity/stocks/skyd.ws"
   },
   {
     "symbol": "CNH",
@@ -7439,7 +7448,7 @@
     "lastsale": "$101.70",
     "netchange": "-2.38",
     "pctchange": "-2.287%",
-    "marketCap": "12,846,204,176",
+    "marketCap": "12,843,392,883",
     "url": "/market-activity/stocks/bj"
   },
   {
@@ -11057,7 +11066,7 @@
     "lastsale": "$57.185",
     "netchange": "0.935",
     "pctchange": "1.662%",
-    "marketCap": "6,289,085,811",
+    "marketCap": "6,285,221,649",
     "url": "/market-activity/stocks/cmc"
   },
   {
@@ -11228,7 +11237,7 @@
     "lastsale": "$24.88",
     "netchange": "0.08",
     "pctchange": "0.323%",
-    "marketCap": "6,083,319,555",
+    "marketCap": "6,091,263,366",
     "url": "/market-activity/stocks/amtm"
   },
   {
@@ -12150,15 +12159,6 @@
     "url": "/market-activity/stocks/fnd"
   },
   {
-    "symbol": "DY",
-    "name": "Dycom Industries, Inc. Common Stock",
-    "lastsale": "$177.555",
-    "netchange": "-1.455",
-    "pctchange": "-0.813%",
-    "marketCap": "5,355,228,720",
-    "url": "/market-activity/stocks/dy"
-  },
-  {
     "symbol": "PSMT",
     "name": "PriceSmart, Inc. Common Stock",
     "lastsale": "$173.09",
@@ -12238,6 +12238,15 @@
     "pctchange": "-1.206%",
     "marketCap": "5,300,632,700",
     "url": "/market-activity/stocks/mmed"
+  },
+  {
+    "symbol": "DY",
+    "name": "Dycom Industries, Inc. Common Stock",
+    "lastsale": "$177.555",
+    "netchange": "-1.455",
+    "pctchange": "-0.813%",
+    "marketCap": "5,294,924,473",
+    "url": "/market-activity/stocks/dy"
   },
   {
     "symbol": "BILL",
@@ -16205,7 +16214,7 @@
     "lastsale": "$8.91",
     "netchange": "0.20",
     "pctchange": "2.296%",
-    "marketCap": "3,018,503,507",
+    "marketCap": "3,023,865,384",
     "url": "/market-activity/stocks/tlx"
   },
   {
@@ -17667,6 +17676,15 @@
     "url": "/market-activity/stocks/bhf"
   },
   {
+    "symbol": "CENT",
+    "name": "Central Garden & Pet Company Common Stock",
+    "lastsale": "$38.12",
+    "netchange": "-3.13",
+    "pctchange": "-7.588%",
+    "marketCap": "2,390,830,135",
+    "url": "/market-activity/stocks/cent"
+  },
+  {
     "symbol": "DNOW",
     "name": "DNOW Inc. Common Stock",
     "lastsale": "$13.25",
@@ -17683,15 +17701,6 @@
     "pctchange": "-4.375%",
     "marketCap": "2,387,305,124",
     "url": "/market-activity/stocks/clmt"
-  },
-  {
-    "symbol": "CENT",
-    "name": "Central Garden & Pet Company Common Stock",
-    "lastsale": "$38.12",
-    "netchange": "-3.13",
-    "pctchange": "-7.588%",
-    "marketCap": "2,386,029,836",
-    "url": "/market-activity/stocks/cent"
   },
   {
     "symbol": "WLY",
@@ -19602,15 +19611,6 @@
     "url": "/market-activity/stocks/adaml"
   },
   {
-    "symbol": "JJSF",
-    "name": "J & J Snack Foods Corp. Common Stock",
-    "lastsale": "$95.07",
-    "netchange": "0.79",
-    "pctchange": "0.838%",
-    "marketCap": "1,776,060,473",
-    "url": "/market-activity/stocks/jjsf"
-  },
-  {
     "symbol": "SFB",
     "name": "Stifel Financial Corporation 5.20% Senior Notes due 2047",
     "lastsale": "$17.38",
@@ -19627,6 +19627,15 @@
     "pctchange": "0.212%",
     "marketCap": "1,774,557,236",
     "url": "/market-activity/stocks/blbd"
+  },
+  {
+    "symbol": "JJSF",
+    "name": "J & J Snack Foods Corp. Common Stock",
+    "lastsale": "$95.07",
+    "netchange": "0.79",
+    "pctchange": "0.838%",
+    "marketCap": "1,773,145,436",
+    "url": "/market-activity/stocks/jjsf"
   },
   {
     "symbol": "DHC",
@@ -22986,6 +22995,15 @@
     "url": "/market-activity/stocks/mltx"
   },
   {
+    "symbol": "SPH",
+    "name": "Suburban Propane Partners, L.P. Common Stock",
+    "lastsale": "$16.57",
+    "netchange": "UNCH",
+    "pctchange": "--",
+    "marketCap": "1,123,555,130",
+    "url": "/market-activity/stocks/sph"
+  },
+  {
     "symbol": "ATEC",
     "name": "Alphatec Holdings, Inc. Common Stock",
     "lastsale": "$7.24",
@@ -23101,15 +23119,6 @@
     "pctchange": "1.561%",
     "marketCap": "1,106,839,746",
     "url": "/market-activity/stocks/ladr"
-  },
-  {
-    "symbol": "SPH",
-    "name": "Suburban Propane Partners, L.P. Common Stock",
-    "lastsale": "$16.57",
-    "netchange": "UNCH",
-    "pctchange": "--",
-    "marketCap": "1,105,424,253",
-    "url": "/market-activity/stocks/sph"
   },
   {
     "symbol": "HFWA",
@@ -23616,15 +23625,6 @@
     "url": "/market-activity/stocks/codi"
   },
   {
-    "symbol": "CFFN",
-    "name": "Capitol Federal Financial, Inc. Common Stock",
-    "lastsale": "$8.06",
-    "netchange": "-0.05",
-    "pctchange": "-0.617%",
-    "marketCap": "1,013,128,161",
-    "url": "/market-activity/stocks/cffn"
-  },
-  {
     "symbol": "SVRA",
     "name": "Savara Inc. Common Stock",
     "lastsale": "$4.59",
@@ -23830,6 +23830,15 @@
     "pctchange": "3.897%",
     "marketCap": "991,705,129",
     "url": "/market-activity/stocks/apog"
+  },
+  {
+    "symbol": "CFFN",
+    "name": "Capitol Federal Financial, Inc. Common Stock",
+    "lastsale": "$8.06",
+    "netchange": "-0.05",
+    "pctchange": "-0.617%",
+    "marketCap": "988,692,498",
+    "url": "/market-activity/stocks/cffn"
   },
   {
     "symbol": "WRD",
@@ -24201,6 +24210,15 @@
     "url": "/market-activity/stocks/cour"
   },
   {
+    "symbol": "CMP",
+    "name": "Compass Minerals Intl Inc Common Stock",
+    "lastsale": "$22.10",
+    "netchange": "-1.18",
+    "pctchange": "-5.069%",
+    "marketCap": "931,701,215",
+    "url": "/market-activity/stocks/cmp"
+  },
+  {
     "symbol": "IRS",
     "name": "IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)",
     "lastsale": "$11.00",
@@ -24226,15 +24244,6 @@
     "pctchange": "0.179%",
     "marketCap": "928,041,343",
     "url": "/market-activity/stocks/pta"
-  },
-  {
-    "symbol": "CMP",
-    "name": "Compass Minerals Intl Inc Common Stock",
-    "lastsale": "$22.10",
-    "netchange": "-1.18",
-    "pctchange": "-5.069%",
-    "marketCap": "927,777,315",
-    "url": "/market-activity/stocks/cmp"
   },
   {
     "symbol": "TRNS",
@@ -27230,7 +27239,7 @@
     "lastsale": "$10.835",
     "netchange": "-0.095",
     "pctchange": "-0.869%",
-    "marketCap": "617,692,201",
+    "marketCap": "617,753,419",
     "url": "/market-activity/stocks/gdot"
   },
   {
@@ -27475,6 +27484,15 @@
     "pctchange": "2.16%",
     "marketCap": "594,159,063",
     "url": "/market-activity/stocks/cgnt"
+  },
+  {
+    "symbol": "DMAC",
+    "name": "DiaMedica Therapeutics Inc. Common Stock",
+    "lastsale": "$9.17",
+    "netchange": "0.05",
+    "pctchange": "0.548%",
+    "marketCap": "593,340,027",
+    "url": "/market-activity/stocks/dmac"
   },
   {
     "symbol": "VMO",
@@ -28746,15 +28764,6 @@
     "url": "/market-activity/stocks/lyel"
   },
   {
-    "symbol": "DMAC",
-    "name": "DiaMedica Therapeutics Inc. Common Stock",
-    "lastsale": "$9.17",
-    "netchange": "0.05",
-    "pctchange": "0.548%",
-    "marketCap": "494,790,037",
-    "url": "/market-activity/stocks/dmac"
-  },
-  {
     "symbol": "FOSL",
     "name": "Fossil Group, Inc. Common Stock",
     "lastsale": "$8.27",
@@ -28818,6 +28827,24 @@
     "url": "/market-activity/stocks/cbio"
   },
   {
+    "symbol": "MAGN",
+    "name": "Magnera Corporation Common Stock",
+    "lastsale": "$13.73",
+    "netchange": "0.05",
+    "pctchange": "0.365%",
+    "marketCap": "492,907,000",
+    "url": "/market-activity/stocks/magn"
+  },
+  {
+    "symbol": "FVR",
+    "name": "FrontView REIT, Inc. Common Stock",
+    "lastsale": "$18.21",
+    "netchange": "-0.11",
+    "pctchange": "-0.60%",
+    "marketCap": "492,557,683",
+    "url": "/market-activity/stocks/fvr"
+  },
+  {
     "symbol": "CZNC",
     "name": "Citizens & Northern Corp Common Stock",
     "lastsale": "$27.42",
@@ -28834,15 +28861,6 @@
     "pctchange": "2.519%",
     "marketCap": "491,984,849",
     "url": "/market-activity/stocks/kopn"
-  },
-  {
-    "symbol": "MAGN",
-    "name": "Magnera Corporation Common Stock",
-    "lastsale": "$13.73",
-    "netchange": "0.05",
-    "pctchange": "0.365%",
-    "marketCap": "491,534,000",
-    "url": "/market-activity/stocks/magn"
   },
   {
     "symbol": "BDN",
@@ -28960,15 +28978,6 @@
     "pctchange": "-1.59%",
     "marketCap": "486,726,000",
     "url": "/market-activity/stocks/ooma"
-  },
-  {
-    "symbol": "FVR",
-    "name": "FrontView REIT, Inc. Common Stock",
-    "lastsale": "$18.21",
-    "netchange": "-0.11",
-    "pctchange": "-0.60%",
-    "marketCap": "486,642,856",
-    "url": "/market-activity/stocks/fvr"
   },
   {
     "symbol": "FMAO",
@@ -32571,6 +32580,15 @@
     "url": "/market-activity/stocks/cmrc"
   },
   {
+    "symbol": "EVI",
+    "name": "EVI Industries, Inc.  Common Stock",
+    "lastsale": "$19.075",
+    "netchange": "-0.515",
+    "pctchange": "-2.629%",
+    "marketCap": "280,029,584",
+    "url": "/market-activity/stocks/evi"
+  },
+  {
     "symbol": "ISBA",
     "name": "Isabella Bank Corporation Common stock",
     "lastsale": "$36.55",
@@ -33397,15 +33415,6 @@
     "pctchange": "-1.339%",
     "marketCap": "247,584,993",
     "url": "/market-activity/stocks/fth"
-  },
-  {
-    "symbol": "EVI",
-    "name": "EVI Industries, Inc.  Common Stock",
-    "lastsale": "$19.075",
-    "netchange": "-0.515",
-    "pctchange": "-2.629%",
-    "marketCap": "247,425,278",
-    "url": "/market-activity/stocks/evi"
   },
   {
     "symbol": "NUAIW",
@@ -34677,15 +34686,6 @@
     "url": "/market-activity/stocks/lien"
   },
   {
-    "symbol": "GMEX",
-    "name": "GMEX ROBOTICS CORPORATION Class A Ordinary Shares",
-    "lastsale": "$0.1397",
-    "netchange": "0.005",
-    "pctchange": "3.712%",
-    "marketCap": "196,623,898",
-    "url": "/market-activity/stocks/gmex"
-  },
-  {
     "symbol": "LMNR",
     "name": "Limoneira Co Common Stock",
     "lastsale": "$10.84",
@@ -34855,15 +34855,6 @@
     "pctchange": "-2.062%",
     "marketCap": "190,948,836",
     "url": "/market-activity/stocks/rilyp"
-  },
-  {
-    "symbol": "FNUC",
-    "name": "Frontier Nuclear and Minerals Inc. Common Shares",
-    "lastsale": "$5.28",
-    "netchange": "0.69",
-    "pctchange": "15.033%",
-    "marketCap": "190,775,260",
-    "url": "/market-activity/stocks/fnuc"
   },
   {
     "symbol": "DGXX",
@@ -35330,7 +35321,7 @@
     "lastsale": "$1.235",
     "netchange": "0.045",
     "pctchange": "3.782%",
-    "marketCap": "174,285,023",
+    "marketCap": "174,542,065",
     "url": "/market-activity/stocks/prqr"
   },
   {
@@ -35827,6 +35818,15 @@
     "pctchange": "-2.907%",
     "marketCap": "156,781,372",
     "url": "/market-activity/stocks/aeye"
+  },
+  {
+    "symbol": "OBMT",
+    "name": "Opportunity Bancorp, Inc. Common Stock",
+    "lastsale": "$19.67",
+    "netchange": "-0.30",
+    "pctchange": "-1.502%",
+    "marketCap": "156,680,028",
+    "url": "/market-activity/stocks/obmt"
   },
   {
     "symbol": "ONEW",
@@ -36819,15 +36819,6 @@
     "url": "/market-activity/stocks/usbc"
   },
   {
-    "symbol": "AIBZ",
-    "name": "Bitzero Holdings Inc. Common Shares",
-    "lastsale": "$2.045",
-    "netchange": "-0.025",
-    "pctchange": "-1.208%",
-    "marketCap": "127,219,434",
-    "url": "/market-activity/stocks/aibz"
-  },
-  {
     "symbol": "JRVR",
     "name": "James River Group Holdings, Inc. Common Stock",
     "lastsale": "$2.75",
@@ -36871,6 +36862,15 @@
     "pctchange": "-1.341%",
     "marketCap": "126,016,789",
     "url": "/market-activity/stocks/ophc"
+  },
+  {
+    "symbol": "AIBZ",
+    "name": "Bitzero Holdings Inc. Common Shares",
+    "lastsale": "$2.045",
+    "netchange": "-0.025",
+    "pctchange": "-1.208%",
+    "marketCap": "125,649,827",
+    "url": "/market-activity/stocks/aibz"
   },
   {
     "symbol": "TONX",
@@ -37643,7 +37643,7 @@
     "lastsale": "$0.828",
     "netchange": "0.0199",
     "pctchange": "2.463%",
-    "marketCap": "105,888,873",
+    "marketCap": "106,008,786",
     "url": "/market-activity/stocks/plg"
   },
   {
@@ -38707,15 +38707,6 @@
     "pctchange": "-4.478%",
     "marketCap": "84,170,774",
     "url": "/market-activity/stocks/hura"
-  },
-  {
-    "symbol": "GFAI",
-    "name": "Guardforce AI Co., Limited Class A Ordinary Shares",
-    "lastsale": "$2.63",
-    "netchange": "-0.27",
-    "pctchange": "-9.31%",
-    "marketCap": "84,049,551",
-    "url": "/market-activity/stocks/gfai"
   },
   {
     "symbol": "LUD",
@@ -40986,15 +40977,6 @@
     "url": "/market-activity/stocks/spro"
   },
   {
-    "symbol": "ADBT",
-    "name": "Advasa Holdings, Inc. Common Stock",
-    "lastsale": "$0.1007",
-    "netchange": "0.0167",
-    "pctchange": "19.881%",
-    "marketCap": "49,108,826",
-    "url": "/market-activity/stocks/adbt"
-  },
-  {
     "symbol": "IMA",
     "name": "ImageneBio, Inc. Common Stock",
     "lastsale": "$3.94",
@@ -41002,6 +40984,15 @@
     "pctchange": "-3.667%",
     "marketCap": "49,077,747",
     "url": "/market-activity/stocks/ima"
+  },
+  {
+    "symbol": "ADBT",
+    "name": "Advasa Holdings, Inc. Common Stock",
+    "lastsale": "$0.1007",
+    "netchange": "0.0167",
+    "pctchange": "19.881%",
+    "marketCap": "49,047,516",
+    "url": "/market-activity/stocks/adbt"
   },
   {
     "symbol": "GANX",
@@ -41299,6 +41290,15 @@
     "pctchange": "1.703%",
     "marketCap": "46,064,922",
     "url": "/market-activity/stocks/brid"
+  },
+  {
+    "symbol": "NVX",
+    "name": "NOVONIX Limited American Depository Shares",
+    "lastsale": "$1.84",
+    "netchange": "-0.02",
+    "pctchange": "-1.075%",
+    "marketCap": "45,890,198",
+    "url": "/market-activity/stocks/nvx"
   },
   {
     "symbol": "OFS",
@@ -41779,7 +41779,7 @@
   },
   {
     "symbol": "GRDX",
-    "name": "GridAI Technologies Corp. Common Stock",
+    "name": "GridAI Power Corp. Common Stock",
     "lastsale": "$3.09",
     "netchange": "-0.46",
     "pctchange": "-12.958%",
@@ -41911,15 +41911,6 @@
     "pctchange": "-0.319%",
     "marketCap": "39,734,211",
     "url": "/market-activity/stocks/culp"
-  },
-  {
-    "symbol": "NVX",
-    "name": "NOVONIX Limited American Depository Shares",
-    "lastsale": "$1.84",
-    "netchange": "-0.02",
-    "pctchange": "-1.075%",
-    "marketCap": "39,602,005",
-    "url": "/market-activity/stocks/nvx"
   },
   {
     "symbol": "ELBM",
@@ -42282,6 +42273,15 @@
     "url": "/market-activity/stocks/czzl"
   },
   {
+    "symbol": "CATO",
+    "name": "Cato Corporation (The) Class A Common Stock",
+    "lastsale": "$1.80",
+    "netchange": "0.01",
+    "pctchange": "0.559%",
+    "marketCap": "35,929,692",
+    "url": "/market-activity/stocks/cato"
+  },
+  {
     "symbol": "KDKRW",
     "name": "Kodiak AI, Inc. Warrants",
     "lastsale": "$0.1757",
@@ -42289,15 +42289,6 @@
     "pctchange": "-12.15%",
     "marketCap": "35,857,489",
     "url": "/market-activity/stocks/kdkrw"
-  },
-  {
-    "symbol": "CATO",
-    "name": "Cato Corporation (The) Class A Common Stock",
-    "lastsale": "$1.80",
-    "netchange": "0.01",
-    "pctchange": "0.559%",
-    "marketCap": "35,841,508",
-    "url": "/market-activity/stocks/cato"
   },
   {
     "symbol": "SOGP",
@@ -42741,6 +42732,15 @@
     "url": "/market-activity/stocks/odys"
   },
   {
+    "symbol": "CLSKW",
+    "name": "CleanSpark, Inc. Warrant",
+    "lastsale": "$0.125",
+    "netchange": "0.004",
+    "pctchange": "3.306%",
+    "marketCap": "32,563,718",
+    "url": "/market-activity/stocks/clskw"
+  },
+  {
     "symbol": "SCWO",
     "name": "374Water Inc. Common Stock",
     "lastsale": "$1.81",
@@ -42811,15 +42811,6 @@
     "pctchange": "3.053%",
     "marketCap": "32,136,724",
     "url": "/market-activity/stocks/klrs"
-  },
-  {
-    "symbol": "CLSKW",
-    "name": "CleanSpark, Inc. Warrant",
-    "lastsale": "$0.125",
-    "netchange": "0.004",
-    "pctchange": "3.306%",
-    "marketCap": "32,102,134",
-    "url": "/market-activity/stocks/clskw"
   },
   {
     "symbol": "ANGH",
@@ -43144,6 +43135,15 @@
     "pctchange": "0.763%",
     "marketCap": "29,921,551",
     "url": "/market-activity/stocks/bhst"
+  },
+  {
+    "symbol": "JEM",
+    "name": "707 Cayman Holdings Limited Ordinary Shares",
+    "lastsale": "$2.79",
+    "netchange": "0.105",
+    "pctchange": "3.911%",
+    "marketCap": "29,840,001",
+    "url": "/market-activity/stocks/jem"
   },
   {
     "symbol": "COHN",
@@ -45792,6 +45792,15 @@
     "url": "/market-activity/stocks/bird"
   },
   {
+    "symbol": "FNUC",
+    "name": "Frontier Nuclear and Minerals Inc. Common Shares",
+    "lastsale": "$5.28",
+    "netchange": "0.69",
+    "pctchange": "15.033%",
+    "marketCap": "12,718,348",
+    "url": "/market-activity/stocks/fnuc"
+  },
+  {
     "symbol": "DRK",
     "name": "DarkHorse Technologies Inc. Common Shares",
     "lastsale": "$1.20",
@@ -46589,7 +46598,7 @@
     "lastsale": "$1.25",
     "netchange": "0.05",
     "pctchange": "4.167%",
-    "marketCap": "9,519,344",
+    "marketCap": "9,530,433",
     "url": "/market-activity/stocks/biya"
   },
   {
@@ -47061,15 +47070,6 @@
     "url": "/market-activity/stocks/btln"
   },
   {
-    "symbol": "INEO",
-    "name": "INNEOVA Holdings Limited Class A Ordinary Shares",
-    "lastsale": "$0.4899",
-    "netchange": "0.04",
-    "pctchange": "8.891%",
-    "marketCap": "7,921,989",
-    "url": "/market-activity/stocks/ineo"
-  },
-  {
     "symbol": "JCSE",
     "name": "JE Cleantech Holdings Limited Class A Ordinary Shares",
     "lastsale": "$1.41",
@@ -47356,15 +47356,6 @@
     "pctchange": "-3.529%",
     "marketCap": "7,160,552",
     "url": "/market-activity/stocks/bctxl"
-  },
-  {
-    "symbol": "HUDI",
-    "name": "Huadi International Group Co., Ltd. Ordinary Shares",
-    "lastsale": "$0.4999",
-    "netchange": "0.0015",
-    "pctchange": "0.301%",
-    "marketCap": "7,158,159",
-    "url": "/market-activity/stocks/hudi"
   },
   {
     "symbol": "EDUC",
@@ -47826,6 +47817,15 @@
     "url": "/market-activity/stocks/mtva"
   },
   {
+    "symbol": "APUS",
+    "name": "Apimeds Pharmaceuticals US, Inc. Common Stock",
+    "lastsale": "$2.74",
+    "netchange": "0.43",
+    "pctchange": "18.615%",
+    "marketCap": "6,021,495",
+    "url": "/market-activity/stocks/apus"
+  },
+  {
     "symbol": "ACXP",
     "name": "Acurx Pharmaceuticals, Inc. Common Stock",
     "lastsale": "$0.9925",
@@ -47898,6 +47898,15 @@
     "url": "/market-activity/stocks/orkt"
   },
   {
+    "symbol": "THH",
+    "name": "TryHard Holdings Limited Ordinary Shares",
+    "lastsale": "$1.16",
+    "netchange": "0.16",
+    "pctchange": "16.00%",
+    "marketCap": "5,830,078",
+    "url": "/market-activity/stocks/thh"
+  },
+  {
     "symbol": "ARAY",
     "name": "Accuray Incorporated Common Stock",
     "lastsale": "$1.94",
@@ -47923,15 +47932,6 @@
     "pctchange": "7.018%",
     "marketCap": "5,824,488",
     "url": "/market-activity/stocks/stem"
-  },
-  {
-    "symbol": "THH",
-    "name": "TryHard Holdings Limited Ordinary Shares",
-    "lastsale": "$1.16",
-    "netchange": "0.16",
-    "pctchange": "16.00%",
-    "marketCap": "5,805,407",
-    "url": "/market-activity/stocks/thh"
   },
   {
     "symbol": "PRSO",
@@ -48024,6 +48024,15 @@
     "url": "/market-activity/stocks/ufg"
   },
   {
+    "symbol": "LZMH",
+    "name": "LZ Technology Holdings Limited Class B Ordinary Shares",
+    "lastsale": "$0.61",
+    "netchange": "-0.042",
+    "pctchange": "-6.442%",
+    "marketCap": "5,557,884",
+    "url": "/market-activity/stocks/lzmh"
+  },
+  {
     "symbol": "FCUV",
     "name": "Focus Universal Inc. Common Stock",
     "lastsale": "$5.65",
@@ -48067,15 +48076,6 @@
     "pctchange": "7.789%",
     "marketCap": "5,477,136",
     "url": "/market-activity/stocks/sclx"
-  },
-  {
-    "symbol": "LZMH",
-    "name": "LZ Technology Holdings Limited Class B Ordinary Shares",
-    "lastsale": "$0.61",
-    "netchange": "-0.042",
-    "pctchange": "-6.442%",
-    "marketCap": "5,476,885",
-    "url": "/market-activity/stocks/lzmh"
   },
   {
     "symbol": "HTOO",
@@ -48283,15 +48283,6 @@
     "pctchange": "2.00%",
     "marketCap": "5,074,709",
     "url": "/market-activity/stocks/inbs"
-  },
-  {
-    "symbol": "APUS",
-    "name": "Apimeds Pharmaceuticals US, Inc. Common Stock",
-    "lastsale": "$2.74",
-    "netchange": "0.43",
-    "pctchange": "18.615%",
-    "marketCap": "5,062,495",
-    "url": "/market-activity/stocks/apus"
   },
   {
     "symbol": "BMRA",
@@ -49878,6 +49869,15 @@
     "url": "/market-activity/stocks/tvgnw"
   },
   {
+    "symbol": "BIVIW",
+    "name": "BioVie Inc. Warrant",
+    "lastsale": "$0.2209",
+    "netchange": "0.0299",
+    "pctchange": "15.654%",
+    "marketCap": "2,525,304",
+    "url": "/market-activity/stocks/biviw"
+  },
+  {
     "symbol": "RDHL",
     "name": "Redhill Biopharma Ltd. American Depositary Shares",
     "lastsale": "$0.2827",
@@ -50011,15 +50011,6 @@
     "pctchange": "-0.253%",
     "marketCap": "2,377,176",
     "url": "/market-activity/stocks/qcls"
-  },
-  {
-    "symbol": "BIVIW",
-    "name": "BioVie Inc. Warrant",
-    "lastsale": "$0.2209",
-    "netchange": "0.0299",
-    "pctchange": "15.654%",
-    "marketCap": "2,369,092",
-    "url": "/market-activity/stocks/biviw"
   },
   {
     "symbol": "PMCB",
@@ -50175,6 +50166,15 @@
     "url": "/market-activity/stocks/ivf"
   },
   {
+    "symbol": "GFAI",
+    "name": "Guardforce AI Co., Limited Class A Ordinary Shares",
+    "lastsale": "$2.63",
+    "netchange": "-0.27",
+    "pctchange": "-9.31%",
+    "marketCap": "2,101,983",
+    "url": "/market-activity/stocks/gfai"
+  },
+  {
     "symbol": "NUWE",
     "name": "Nuwellis, Inc. Common Stock",
     "lastsale": "$3.83",
@@ -50315,7 +50315,7 @@
     "lastsale": "$1.52",
     "netchange": "-0.07",
     "pctchange": "-4.403%",
-    "marketCap": "1,981,863",
+    "marketCap": "1,981,945",
     "url": "/market-activity/stocks/yhc"
   },
   {
@@ -50371,24 +50371,6 @@
     "pctchange": "0.13%",
     "marketCap": "1,943,996",
     "url": "/market-activity/stocks/xpon"
-  },
-  {
-    "symbol": "SGLY",
-    "name": "Singularity Future Technology Ltd. Common Stock",
-    "lastsale": "$0.347",
-    "netchange": "-0.0032",
-    "pctchange": "-0.914%",
-    "marketCap": "1,943,154",
-    "url": "/market-activity/stocks/sgly"
-  },
-  {
-    "symbol": "JEM",
-    "name": "707 Cayman Holdings Limited Ordinary Shares",
-    "lastsale": "$2.79",
-    "netchange": "0.105",
-    "pctchange": "3.911%",
-    "marketCap": "1,940,001",
-    "url": "/market-activity/stocks/jem"
   },
   {
     "symbol": "MBIO",
@@ -50479,6 +50461,15 @@
     "pctchange": "14.984%",
     "marketCap": "1,883,955",
     "url": "/market-activity/stocks/rime"
+  },
+  {
+    "symbol": "ZNB",
+    "name": "Zeta Network Group Class A Ordinary Shares",
+    "lastsale": "$0.2854",
+    "netchange": "0.0014",
+    "pctchange": "0.493%",
+    "marketCap": "1,883,051",
+    "url": "/market-activity/stocks/znb"
   },
   {
     "symbol": "PPCB",
@@ -50670,6 +50661,15 @@
     "url": "/market-activity/stocks/nxl"
   },
   {
+    "symbol": "INEO",
+    "name": "INNEOVA Holdings Limited Class A Ordinary Shares",
+    "lastsale": "$0.4899",
+    "netchange": "0.04",
+    "pctchange": "8.891%",
+    "marketCap": "1,643,186",
+    "url": "/market-activity/stocks/ineo"
+  },
+  {
     "symbol": "BFLR",
     "name": "BlueFlare, Inc. Common Stock",
     "lastsale": "$0.0168",
@@ -50686,15 +50686,6 @@
     "pctchange": "-7.36%",
     "marketCap": "1,626,096",
     "url": "/market-activity/stocks/dbgi"
-  },
-  {
-    "symbol": "VVOS",
-    "name": "Vivos Therapeutics, Inc. Common Stock",
-    "lastsale": "$0.046",
-    "netchange": "-0.0126",
-    "pctchange": "-21.502%",
-    "marketCap": "1,555,755",
-    "url": "/market-activity/stocks/vvos"
   },
   {
     "symbol": "WORX",
@@ -50841,15 +50832,6 @@
     "url": "/market-activity/stocks/hxhx"
   },
   {
-    "symbol": "ZNB",
-    "name": "Zeta Network Group Class A Ordinary Shares",
-    "lastsale": "$0.2854",
-    "netchange": "0.0014",
-    "pctchange": "0.493%",
-    "marketCap": "1,427,590",
-    "url": "/market-activity/stocks/znb"
-  },
-  {
     "symbol": "ARTL",
     "name": "Artelo Biosciences, Inc. Common Stock",
     "lastsale": "$1.52",
@@ -50965,6 +50947,15 @@
     "pctchange": "7.413%",
     "marketCap": "1,365,109",
     "url": "/market-activity/stocks/tdog"
+  },
+  {
+    "symbol": "NTCL",
+    "name": "NETCLASS TECHNOLOGY INC Class A Ordinary Shares",
+    "lastsale": "$1.80",
+    "netchange": "0.09",
+    "pctchange": "5.263%",
+    "marketCap": "1,359,018",
+    "url": "/market-activity/stocks/ntcl"
   },
   {
     "symbol": "CAPS",
@@ -51118,15 +51109,6 @@
     "pctchange": "3.057%",
     "marketCap": "1,182,360",
     "url": "/market-activity/stocks/auud"
-  },
-  {
-    "symbol": "NTCL",
-    "name": "NETCLASS TECHNOLOGY INC Class A Ordinary Shares",
-    "lastsale": "$1.80",
-    "netchange": "0.09",
-    "pctchange": "5.263%",
-    "marketCap": "1,179,000",
-    "url": "/market-activity/stocks/ntcl"
   },
   {
     "symbol": "APVO",
@@ -51444,6 +51426,15 @@
     "url": "/market-activity/stocks/ablvw"
   },
   {
+    "symbol": "HUDI",
+    "name": "Huadi International Group Co., Ltd. Ordinary Shares",
+    "lastsale": "$0.4999",
+    "netchange": "0.0015",
+    "pctchange": "0.301%",
+    "marketCap": "894,770",
+    "url": "/market-activity/stocks/hudi"
+  },
+  {
     "symbol": "BRNX",
     "name": "BrenX Ltd. Ordinary Shares",
     "lastsale": "$0.924",
@@ -51624,6 +51615,15 @@
     "url": "/market-activity/stocks/fmfc"
   },
   {
+    "symbol": "GNLN",
+    "name": "Greenlane Holdings, Inc. Class A Common Stock",
+    "lastsale": "$0.5557",
+    "netchange": "0.0567",
+    "pctchange": "11.363%",
+    "marketCap": "596,524",
+    "url": "/market-activity/stocks/gnln"
+  },
+  {
     "symbol": "FGL",
     "name": "Founder Group Limited Class A Ordinary Shares",
     "lastsale": "$0.6999",
@@ -51759,15 +51759,6 @@
     "url": "/market-activity/stocks/csai"
   },
   {
-    "symbol": "GNLN",
-    "name": "Greenlane Holdings, Inc. Class A Common Stock",
-    "lastsale": "$0.5557",
-    "netchange": "0.0567",
-    "pctchange": "11.363%",
-    "marketCap": "470,380",
-    "url": "/market-activity/stocks/gnln"
-  },
-  {
     "symbol": "BLUWW",
     "name": "Blue Water Acquisition Corp. III Warrant.",
     "lastsale": "$0.0647",
@@ -51802,15 +51793,6 @@
     "pctchange": "68.966%",
     "marketCap": "445,605",
     "url": "/market-activity/stocks/cdrow"
-  },
-  {
-    "symbol": "HCTI",
-    "name": "Healthcare Triangle, Inc. Common Stock",
-    "lastsale": "$0.4624",
-    "netchange": "-2.2476",
-    "pctchange": "-82.937%",
-    "marketCap": "423,183",
-    "url": "/market-activity/stocks/hcti"
   },
   {
     "symbol": "CDT",
@@ -51984,6 +51966,15 @@
     "url": "/market-activity/stocks/aixi"
   },
   {
+    "symbol": "SGLY",
+    "name": "Compower Ltd. Common Stock",
+    "lastsale": "$0.347",
+    "netchange": "-0.0032",
+    "pctchange": "-0.914%",
+    "marketCap": "187,512",
+    "url": "/market-activity/stocks/sgly"
+  },
+  {
     "symbol": "SRTM",
     "name": "Stratum Holdings Corp. Common Stock",
     "lastsale": "$0.363",
@@ -52090,6 +52081,15 @@
     "pctchange": "-14.53%",
     "marketCap": "97,370",
     "url": "/market-activity/stocks/vwavw"
+  },
+  {
+    "symbol": "GMEX",
+    "name": "GMEX ROBOTICS CORPORATION Class A Ordinary Shares",
+    "lastsale": "$0.1397",
+    "netchange": "0.005",
+    "pctchange": "3.712%",
+    "marketCap": "93,811",
+    "url": "/market-activity/stocks/gmex"
   },
   {
     "symbol": "PRENW",
@@ -61623,15 +61623,6 @@
     "url": "/market-activity/stocks/obaww"
   },
   {
-    "symbol": "OBMT",
-    "name": "Opportunity Bancorp, Inc. Common Stock",
-    "lastsale": "$19.67",
-    "netchange": "-0.30",
-    "pctchange": "-1.502%",
-    "marketCap": "NA",
-    "url": "/market-activity/stocks/obmt"
-  },
-  {
     "symbol": "OCAC",
     "name": "Ocean Capital Acquisition Corporation Ordinary Shares",
     "lastsale": "$10.04",
@@ -64222,15 +64213,6 @@
     "pctchange": "--",
     "marketCap": "NA",
     "url": "/market-activity/stocks/simaw"
-  },
-  {
-    "symbol": "SKYD.WS",
-    "name": "Skydance Corporation Warrants to Purchase Class B Common Stock",
-    "lastsale": "$2.91",
-    "netchange": "0.01",
-    "pctchange": "0.345%",
-    "marketCap": "NA",
-    "url": "/market-activity/stocks/skyd.ws"
   },
   {
     "symbol": "SLG^I",
